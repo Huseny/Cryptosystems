@@ -1,4 +1,4 @@
-#1. Affine Cipher#
+## 1. Affine Cipher ##
 The Affine Cipher cryptosystem works in such a way that it shifts a character by multiplying its index by a constant and adding 
 another constant into the product. In the implementation, we first created a dictionary to store the numerical equivalents of the 
 26 english letters. for example, in the dictionary "A" is maped to 0, "B" to 1 and so on. this will help in converting the plain text
